@@ -1,1 +1,1 @@
-A biochemist curious whether we can resolve the "black box" problem regarding deep learning interpretability. 🕵🏽‍♀️ 🧬 💾
+A curious biochemist wondering if the "black box" problem in deep learning has an interpretable solution after all 🕵🏽‍♀️ 🧬 💾
